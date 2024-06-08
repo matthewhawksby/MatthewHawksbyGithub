@@ -1,4 +1,3 @@
-Hey Everyone! I'm Matthew Hawksby. I'm a CS student at Simon Fraser University in BC, Canada. 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&duration=2500&pause=100&color=ED3900&multiline=true&repeat=false&random=false&width=500&height=100&lines=Hi+Everyone!;I'm+Matthew+Hawksby;A+CS+student+at+Simon+Fraser+University;in+BC+Canada." alt="Typing SVG" /></a>
 <br><br>
